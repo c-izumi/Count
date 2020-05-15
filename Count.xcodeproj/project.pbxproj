@@ -15,6 +15,7 @@
 		B4695BAF246E3CC3006A0028 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4695BAD246E3CC3006A0028 /* LaunchScreen.storyboard */; };
 		B4695BBA246E3CC3006A0028 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4695BB9246E3CC3006A0028 /* CountTests.swift */; };
 		B4695BC5246E3CC3006A0028 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4695BC4246E3CC3006A0028 /* CountUITests.swift */; };
+		B4695BD3246E3E7F006A0028 /* 42A21C7B070743B3ADA8E722D7960925_LL.png in Resources */ = {isa = PBXBuildFile; fileRef = B4695BD2246E3E7F006A0028 /* 42A21C7B070743B3ADA8E722D7960925_LL.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B4695BC0246E3CC3006A0028 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4695BC4246E3CC3006A0028 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		B4695BC6246E3CC3006A0028 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4695BD2246E3E7F006A0028 /* 42A21C7B070743B3ADA8E722D7960925_LL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 42A21C7B070743B3ADA8E722D7960925_LL.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		B4695BA1246E3CC2006A0028 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				B4695BD2246E3E7F006A0028 /* 42A21C7B070743B3ADA8E722D7960925_LL.png */,
 				B4695BA2246E3CC2006A0028 /* AppDelegate.swift */,
 				B4695BA4246E3CC2006A0028 /* SceneDelegate.swift */,
 				B4695BA6246E3CC2006A0028 /* ViewController.swift */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4695BAF246E3CC3006A0028 /* LaunchScreen.storyboard in Resources */,
+				B4695BD3246E3E7F006A0028 /* 42A21C7B070743B3ADA8E722D7960925_LL.png in Resources */,
 				B4695BAC246E3CC3006A0028 /* Assets.xcassets in Resources */,
 				B4695BAA246E3CC2006A0028 /* Main.storyboard in Resources */,
 			);
